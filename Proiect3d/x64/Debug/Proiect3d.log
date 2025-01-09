@@ -1,0 +1,43 @@
+﻿  C:freeglut.dll
+  C:glew32.dll
+  C:glew32s.dll
+  3 File(s) copied
+  C:glfw3.dll
+  C:glfw3dll.dll
+  C:glfw3_mt.dll
+  3 File(s) copied
+  C:SOIL.dll
+  1 File(s) copied
+  main.cpp
+C:\Facultate\An4\Grafica pe calculator\Proiect3d\main.cpp(50,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Facultate\An4\Grafica pe calculator\Proiect3d\main.cpp(77,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Facultate\An4\Grafica pe calculator\Proiect3d\main.cpp(77,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Facultate\An4\Grafica pe calculator\Proiect3d\main.cpp(83,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Facultate\An4\Grafica pe calculator\Proiect3d\main.cpp(116,15): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Facultate\An4\Grafica pe calculator\Proiect3d\main.cpp(119,15): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Facultate\An4\Grafica pe calculator\Proiect3d\main.cpp(150,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Facultate\An4\Grafica pe calculator\Proiect3d\main.cpp(154,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Facultate\An4\Grafica pe calculator\Proiect3d\main.cpp(199,91): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Facultate\An4\Grafica pe calculator\Proiect3d\main.cpp(199,91): warning C4244:         with
+C:\Facultate\An4\Grafica pe calculator\Proiect3d\main.cpp(199,91): warning C4244:         [
+C:\Facultate\An4\Grafica pe calculator\Proiect3d\main.cpp(199,91): warning C4244:             T=float
+C:\Facultate\An4\Grafica pe calculator\Proiect3d\main.cpp(199,91): warning C4244:         ]
+C:\Facultate\An4\Grafica pe calculator\Proiect3d\main.cpp(200,89): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Facultate\An4\Grafica pe calculator\Proiect3d\main.cpp(200,89): warning C4244:         with
+C:\Facultate\An4\Grafica pe calculator\Proiect3d\main.cpp(200,89): warning C4244:         [
+C:\Facultate\An4\Grafica pe calculator\Proiect3d\main.cpp(200,89): warning C4244:             T=float
+C:\Facultate\An4\Grafica pe calculator\Proiect3d\main.cpp(200,89): warning C4244:         ]
+C:\Facultate\An4\Grafica pe calculator\Proiect3d\main.cpp(458,214): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Facultate\An4\Grafica pe calculator\Proiect3d\main.cpp(519,48): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Facultate\An4\Grafica pe calculator\Proiect3d\main.cpp(523,49): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Facultate\An4\Grafica pe calculator\Proiect3d\main.cpp(527,52): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Facultate\An4\Grafica pe calculator\Proiect3d\main.cpp(531,55): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Facultate\An4\Grafica pe calculator\Proiect3d\main.cpp(535,55): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Facultate\An4\Grafica pe calculator\Proiect3d\main.cpp(539,61): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Facultate\An4\Grafica pe calculator\Proiect3d\main.cpp(543,49): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Facultate\An4\Grafica pe calculator\Proiect3d\main.cpp(548,48): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Facultate\An4\Grafica pe calculator\Proiect3d\main.cpp(552,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Proiect3d.vcxproj -> C:\Facultate\An4\Grafica pe calculator\Proiect3d\x64\Debug\Proiect3d.exe
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied

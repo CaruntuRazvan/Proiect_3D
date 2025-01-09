@@ -1,0 +1,22 @@
+# Blender 4.3.0 MTL File: 'None'
+# www.blender.org
+
+newmtl Wood
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/Gunnar/Desktop/Wood/WoodTexture.png
+
+newmtl WoodCut
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/Users/Gunnar/Desktop/Wood/WoodTexture.png
