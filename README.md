@@ -6,7 +6,7 @@ Acest proiect reprezintă o scenă 3D de iarnă, dezvoltată folosind C++, OpenG
 
 ## 📷 Captură de Ecran
 
-
+![Screenshot aplicație](./screenshots/image.png)
 
 ---
 
